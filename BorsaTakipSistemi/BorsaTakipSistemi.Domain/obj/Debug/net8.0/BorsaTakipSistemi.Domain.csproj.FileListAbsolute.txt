@@ -1,0 +1,12 @@
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Domain\bin\Debug\net8.0\BorsaTakipSistemi.Domain.deps.json
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Domain\bin\Debug\net8.0\BorsaTakipSistemi.Domain.dll
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Domain\bin\Debug\net8.0\BorsaTakipSistemi.Domain.pdb
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Domain\obj\Debug\net8.0\BorsaTakipSistemi.Domain.csproj.AssemblyReference.cache
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Domain\obj\Debug\net8.0\BorsaTakipSistemi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Domain\obj\Debug\net8.0\BorsaTakipSistemi.Domain.AssemblyInfoInputs.cache
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Domain\obj\Debug\net8.0\BorsaTakipSistemi.Domain.AssemblyInfo.cs
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Domain\obj\Debug\net8.0\BorsaTakipSistemi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Domain\obj\Debug\net8.0\BorsaTakipSistemi.Domain.dll
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Domain\obj\Debug\net8.0\refint\BorsaTakipSistemi.Domain.dll
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Domain\obj\Debug\net8.0\BorsaTakipSistemi.Domain.pdb
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Domain\obj\Debug\net8.0\ref\BorsaTakipSistemi.Domain.dll

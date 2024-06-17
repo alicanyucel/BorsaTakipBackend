@@ -1,0 +1,15 @@
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\bin\Debug\net8.0\BorsaTakipSistemi.Application.deps.json
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\bin\Debug\net8.0\BorsaTakipSistemi.Application.dll
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\bin\Debug\net8.0\BorsaTakipSistemi.Application.pdb
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\bin\Debug\net8.0\BorsaTakipSistemi.Domain.dll
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\bin\Debug\net8.0\BorsaTakipSistemi.Domain.pdb
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\obj\Debug\net8.0\BorsaTakipSistemi.Application.csproj.AssemblyReference.cache
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\obj\Debug\net8.0\BorsaTakipSistemi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\obj\Debug\net8.0\BorsaTakipSistemi.Application.AssemblyInfoInputs.cache
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\obj\Debug\net8.0\BorsaTakipSistemi.Application.AssemblyInfo.cs
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\obj\Debug\net8.0\BorsaTakipSistemi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\obj\Debug\net8.0\BorsaTak.43858673.Up2Date
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\obj\Debug\net8.0\BorsaTakipSistemi.Application.dll
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\obj\Debug\net8.0\refint\BorsaTakipSistemi.Application.dll
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\obj\Debug\net8.0\BorsaTakipSistemi.Application.pdb
+C:\Users\Ali Can\source\repos\Inspimo\BorsaTakipSistemi\BorsaTakipSistemi\BorsaTakipSistemi.Application\obj\Debug\net8.0\ref\BorsaTakipSistemi.Application.dll

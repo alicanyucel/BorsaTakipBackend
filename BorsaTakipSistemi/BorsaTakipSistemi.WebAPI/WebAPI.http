@@ -1,0 +1,6 @@
+@BorsaTakipSistemi.WebAPI_HostAddress = http://localhost:5193
+
+GET {{BorsaTakipSistemi.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

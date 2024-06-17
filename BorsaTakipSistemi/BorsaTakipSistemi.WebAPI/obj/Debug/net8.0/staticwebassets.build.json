@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2/GOo1BNFFME1THucSEqSyICLgl6KFgKS7aQdzfBsuU=",
+  "Source": "BorsaTakipSistemi.WebAPI",
+  "BasePath": "_content/BorsaTakipSistemi.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
